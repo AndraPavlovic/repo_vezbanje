@@ -1,4 +1,4 @@
 Izmenjen
 
-Treba da se puluje
+Treba da se pulluje
 fetch
